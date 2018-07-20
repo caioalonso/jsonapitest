@@ -5,11 +5,10 @@ one:
   h2: MyString
   h3: MyString
   links: MyString
-  url: MyString
+  url: http://google.com
 
 two:
-  h1: MyString
-  h2: MyString
-  h3: MyString
+  h1: anotherstring
+  h3: AnotherString
   links: MyString
   url: MyString
